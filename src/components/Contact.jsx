@@ -44,7 +44,7 @@ const Contact = () => {
             <ul className="space-y-4 text-sm">
               <li className="flex items-center gap-3 text-slate-300">
                 <span className="text-accent">📧</span>
-                tusharakanta.chintada@example.com
+                tusharakantachintada@gmail.com
               </li>
               <li className="flex items-center gap-3 text-slate-300">
                 <span className="text-accent">📍</span>
